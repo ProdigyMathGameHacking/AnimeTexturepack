@@ -1,0 +1,58 @@
+{
+    "createdBy": "Redirector v3.5.3",
+    "createdAt": "2022-05-03T05:42:13.521Z",
+    "redirects": [
+        {
+            "description": "npc-sprite-noot.png",
+            "exampleUrl": "https://cdn.prodigygame.com/game/assets/v1_cache/atlases/npc-sprite-noot/9/npc-sprite-noot.png",
+            "exampleResult": "https://raw.githubusercontent.com/ProdigyPNP/AnimeTexturepack/master/game/assets/v1_cache/atlases/npc-sprite-noot/9/npc-sprite-noot.png",
+            "error": null,
+            "includePattern": "https://cdn.prodigygame.com/game/assets/v1_cache/atlases/npc-sprite-noot/9/npc-sprite-noot.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/ProdigyPNP/AnimeTexturepack/master/game/assets/v1_cache/atlases/npc-sprite-noot/9/npc-sprite-noot.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        },
+        {
+            "description": "npc-face-noot.png",
+            "exampleUrl": "https://cdn.prodigygame.com/game/assets/v1_cache/atlases/npc-face-noot/12/npc-face-noot.png",
+            "exampleResult": "https://raw.githubusercontent.com/ProdigyPNP/AnimeTexturepack/master/game/assets/v1_cache/atlases/npc-face-noot/12/npc-face-noot.png",
+            "error": null,
+            "includePattern": "https://cdn.prodigygame.com/game/assets/v1_cache/atlases/npc-face-noot/12/npc-face-noot.png",
+            "excludePattern": "",
+            "patternDesc": "",
+            "redirectUrl": "https://raw.githubusercontent.com/ProdigyPNP/AnimeTexturepack/master/game/assets/v1_cache/atlases/npc-face-noot/12/npc-face-noot.png",
+            "patternType": "W",
+            "processMatches": "noProcessing",
+            "disabled": false,
+            "grouped": false,
+            "appliesTo": [
+                "main_frame",
+                "sub_frame",
+                "stylesheet",
+                "script",
+                "image",
+                "imageset",
+                "object",
+                "xmlhttprequest",
+                "history",
+                "other"
+            ]
+        }
+    ]
+}
